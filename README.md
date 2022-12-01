@@ -1,4 +1,4 @@
-### Hi I'm Jakub 👋
+# Hi I'm Jakub 👋
 
 I am Jakub Lyczko, frontend developer and a Computer Science student at Silesian University of Technology. I'm a big fan of **React**, **Next.js** and **Typescript** ❤️. I enjoy doing sport, reading books, programming and spending time with my friends.
 
