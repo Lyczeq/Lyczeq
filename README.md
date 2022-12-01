@@ -13,10 +13,10 @@ Technologies I use on a daily basis:
 
 Other tools I use but not that often:
 <br/>
-<a href="https://www.docker.com/"><img width="80px" src="https://uncommonsolutions.com/wp-content/uploads/2018/12/Microsoft-Docker-logo.png"/><a/>
+<a href="https://www.docker.com/"><img width="71px" src="https://www.mirantis.com/wp-content/uploads/2021/11/docker-blog-image.png"/><a/>
 <a href="https://kubernetes.io/"><img width="80px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.png"/><a/>
 <a href="https://www.cypress.io/"><img width="76px" src="https://www.cypress.io/static/8fb8a1db3cdc0b289fad927694ecb415/cypress-io-logo-social-share.png"/><a/>
-<a href="https://nodejs.org/en/"><img width="80px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.png"/><a/>
+<a href="https://nodejs.org/en/"><img width="79px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.png"/><a/>
 
 
 <br/>
