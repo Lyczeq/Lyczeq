@@ -22,8 +22,9 @@ I am Jakub Lyczko, frontend developer and a Computer Science student at Silesian
 
 What is more, I have recently started to take an interest in **Blockchain** technologies. As an Engineering Thesis I created [dinan](https://github.com/Lyczeq/dinan) which is a platform to create your own exams and participate in the ones created by other users. As a award you get  a ⭐NFT⭐ no matter what your score is! The NFT is a proven record on the Blockchain that nobody can fake. It confirms score you've got during exam. That dinan NFT works on [polygon](https://polygon.technology/) network.
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lyczeq)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lyczeq&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lyczeq&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
