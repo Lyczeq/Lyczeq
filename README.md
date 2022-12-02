@@ -13,11 +13,13 @@ I am Jakub Lyczko, frontend developer and a Computer Science student at Silesian
 
 ### Other technologies:
 
+<a href="https://nextjs.org/"><img width="76px" src="https://gorzelinski.com/static/1db41e3ecd311724a15306b270d99dd9/6e87d/next-js-logo.png"/><a/>
 <a href="https://www.docker.com/"><img width="71px" src="https://www.mirantis.com/wp-content/uploads/2021/11/docker-blog-image.png"/><a/>
-<a href="https://kubernetes.io/"><img width="80px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.png"/><a/>
 <a href="https://www.cypress.io/"><img width="76px" src="https://www.cypress.io/static/8fb8a1db3cdc0b289fad927694ecb415/cypress-io-logo-social-share.png"/><a/>
+ <a href="https://kubernetes.io/"><img width="80px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.png"/><a/>
 <a href="https://nodejs.org/en/"><img width="79px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.png"/><a/>
 
+What is more, I have recently started to take an interest in **Blockchain** technologies. As an Engineering Thesis I created [dinan](https://github.com/Lyczeq/dinan) which is a platform to create your own exams and participate in the ones created by other users. As a award you get  a ⭐NFT⭐ no matter what your score is! The NFT is a proven record on the Blockchain that nobody can fake. It confirms score you've got during exam. That dinan NFT works on [polygon](https://polygon.technology/) network.
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lyczeq)](https://github.com/anuraghazra/github-readme-stats)
 
