@@ -2,8 +2,7 @@
 
 I am Jakub Lyczko, frontend developer and a Computer Science student at Silesian University of Technology. I'm a big fan of **React**, **Next.js** and **Typescript** ❤️. I enjoy doing sport, reading books, programming and spending time with my friends.
 
-- 🔭 I’m currently working at **SAP Labs Poland**. I develop [busola](https://github.com/kyma-project/busola) which is a Web based Kubernetes Dashboard
-- 📫 You can reach me by sending an e-mail on jakublyczko1@gmail.com
+- 📫 You can reach me by sending an e-mail on jakublyczko1@gmail.com or jakub.lyczko@swmansion.com
 - 📗 I am currently learning Next.js and Typescript to increase my skills in these technologies
 
 ## Technologies I use on a daily basis and feel very convenient with:
