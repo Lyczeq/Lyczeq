@@ -1,6 +1,6 @@
 # Hi I'm Jakub 👋
 
-I am Jakub Lyczko, frontend developer and a Computer Science student at Silesian University of Technology. I'm a big fan of **React**, **Next.js** and **Typescript** ❤️. I enjoy doing sport, reading books, programming and spending time with my friends.
+I am Jakub Lyczko, a Software Engineer at [Software Mansion](https://github.com/software-mansion). I'm a big fan of **React**, **Next.js** and **Typescript** ❤️. I enjoy doing sport, reading books, programming and spending time with my friends.
 
 - 📫 You can reach me by sending an e-mail on jakublyczko1@gmail.com or jakub.lyczko@swmansion.com
 - 📗 I am currently learning Next.js and Typescript to increase my skills in these technologies
@@ -19,7 +19,6 @@ I am Jakub Lyczko, frontend developer and a Computer Science student at Silesian
  <a href="https://kubernetes.io/"><img width="80px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.png"/><a/>
 <a href="https://nodejs.org/en/"><img width="79px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.png"/><a/>
 
-What is more, I have recently started to take an interest in **Blockchain** technologies. As an Engineering Thesis I created [dinan](https://github.com/Lyczeq/dinan) which is a platform to create your own exams and participate in the ones created by other users. As a award you get  a ⭐NFT⭐ no matter what your score is! The NFT is a proven record on the Blockchain that nobody can fake. It confirms score you've got during exam. That dinan NFT works on [polygon](https://polygon.technology/) network.
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lyczeq&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
