@@ -19,8 +19,6 @@ I am Jakub Lyczko, a Software Engineer at [Software Mansion](https://github.com/
  <a href="https://kubernetes.io/"><img width="80px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.png"/><a/>
 <a href="https://nodejs.org/en/"><img width="79px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.png"/><a/>
 
- 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lyczeq&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lyczeq&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
